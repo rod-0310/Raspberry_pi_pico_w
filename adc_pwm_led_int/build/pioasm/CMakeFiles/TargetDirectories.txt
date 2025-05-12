@@ -1,0 +1,7 @@
+/home/rod-0310/pico/adc_pwm_led_int/build/pioasm/CMakeFiles/pioasm.dir
+/home/rod-0310/pico/adc_pwm_led_int/build/pioasm/CMakeFiles/edit_cache.dir
+/home/rod-0310/pico/adc_pwm_led_int/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/rod-0310/pico/adc_pwm_led_int/build/pioasm/CMakeFiles/list_install_components.dir
+/home/rod-0310/pico/adc_pwm_led_int/build/pioasm/CMakeFiles/install.dir
+/home/rod-0310/pico/adc_pwm_led_int/build/pioasm/CMakeFiles/install/local.dir
+/home/rod-0310/pico/adc_pwm_led_int/build/pioasm/CMakeFiles/install/strip.dir

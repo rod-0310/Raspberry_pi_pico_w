@@ -1,0 +1,5 @@
+/home/rod-0310/pico/adc_pwm_led_int_input_output_uart/build/pioasm-install/pioasm/pioasm
+/home/rod-0310/pico/adc_pwm_led_int_input_output_uart/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/rod-0310/pico/adc_pwm_led_int_input_output_uart/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/rod-0310/pico/adc_pwm_led_int_input_output_uart/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/rod-0310/pico/adc_pwm_led_int_input_output_uart/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

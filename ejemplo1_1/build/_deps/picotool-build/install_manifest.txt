@@ -1,0 +1,5 @@
+/home/rod-0310/pico/ejemplo1_1/build/_deps/picotool/picotool
+/home/rod-0310/pico/ejemplo1_1/build/_deps/picotool/picotoolTargets.cmake
+/home/rod-0310/pico/ejemplo1_1/build/_deps/picotool/picotoolTargets-release.cmake
+/home/rod-0310/pico/ejemplo1_1/build/_deps/picotool/picotoolConfig.cmake
+/home/rod-0310/pico/ejemplo1_1/build/_deps/picotool/picotoolConfigVersion.cmake
